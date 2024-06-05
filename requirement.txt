@@ -1,0 +1,8 @@
+scikit-learn
+transformers
+pytorch-lightning
+py_vncorenlp
+protobuf
+sentencepiece
+spacy
+pyvi
